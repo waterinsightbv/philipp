@@ -1,0 +1,1 @@
+/home/phil/Documents/work/dev/wi/Ecospot/libusb-1.0.19back/examples/measure_ecospot_android.h
